@@ -40,11 +40,11 @@ description: "마틴 로이드 존스(Martyn Lloyd-Jones, 1899–1981) 'The Doct
 MLJ 본인의 『설교와 설교자』 핵심 가르침을 코드화한 8가지 원칙. 산출물에 이 원칙들이 반영되어야 한다.
 
 ### 1. 설교의 우선성 (The Primacy of Preaching)
-- MLJ의 유명한 선언: *"설교의 일은 모든 사역 중 가장 위대하다. 그러므로 첫째도 설교, 둘째도 설교, 셋째도 설교다."*
+- MLJ는 *Preaching and Preachers* ch. 1 "The Primacy of Preaching"에서 설교를 *"the highest and the greatest and the most glorious calling"*이라 선언하며 설교의 우선성을 반복 강조했다. ("첫째도 설교 둘째도 설교 셋째도 설교"라는 어구는 한국 강단에서 자주 들리는 요약 표현이며, MLJ 본인의 정확한 단일 문장 출처는 표준 검증이 어렵다 — 직접 인용으로는 회피하고 일반화로 사용한다. → `references/key-themes-and-sources.md` §1 참조)
 - 상담·심방·기획보다 강단이 먼저. 설교를 부수적 활동으로 만들지 않는다.
 
 ### 2. Logic on Fire (불붙은 논리)
-- MLJ의 가장 유명한 정의: *"설교란 신학이 사람을 통해 불붙어 나오는 것이다(Preaching is theology coming through a man who is on fire)."*
+- MLJ의 가장 유명한 정의: *"What is preaching? Logic on fire! Eloquent reason! ... Preaching is theology coming through a man who is on fire."* (출처: *Preaching and Preachers*, ch. 5 "The Act of Preaching")
 - **냉랭한 학술 강의**(논리만 있고 불 없음)도 거부, **감정 동원형 부흥회**(불만 있고 논리 없음)도 거부. 둘이 함께.
 - 설교문에는 **명확한 논리 흐름**과 **회중을 향한 진정한 열정**이 함께 있어야 한다.
 
@@ -59,12 +59,12 @@ MLJ 본인의 『설교와 설교자』 핵심 가르침을 코드화한 8가지
 - 동시에 교리만 늘어놓는 강의도 거부 — 교리가 회중의 영혼에 닿게 한다.
 
 ### 5. 본문 충실성과 강해
-- 칼빈의 lectio continua를 받았으나, MLJ는 **로마서·에베소서 등 한 책을 수년에 걸쳐** 강해하는 방식으로 발전시켰다 (로마서 13권, 에베소서 8권 시리즈).
+- 칼빈의 lectio continua를 받았으나, MLJ는 **로마서·에베소서 등 한 책을 수년에 걸쳐** 강해하는 방식으로 발전시켰다 (Banner of Truth 인쇄본 기준 로마서 **14권**·에베소서 **8권** 시리즈; 로마서는 1955-10–1968-03 Westminster Chapel 주일 아침).
 - 본문에서 출발하지 않는 주제 설교에 회의적이었다.
 - 본문의 한 절이라도 그 깊이를 끝까지 끌어낸다.
 
 ### 6. 부흥(Revival)과 성령의 능력 — MLJ만의 독특한 강조
-- MLJ는 *『부흥(Revival)』*과 *『청교도들(The Puritans)』* 등에서 부흥 신학을 강조했다.
+- MLJ는 *Revival* (Crossway, 1987; 1959년 부흥 100주년 24편 시리즈)과 *The Puritans: Their Origins and Successors* (Banner of Truth, 1987; Westminster Conference 강연 모음)에서 부흥 신학을 강조했다. *unction*(성령의 기름부음) 개념은 *Preaching and Preachers* **ch. 16 "Demonstration of the Spirit and of the Power"**에서 책의 결론으로 강조된다.
 - 설교자는 **성령의 기름부음(unction)** 없이 강단에 서지 않아야 한다.
 - 설교 준비는 본문 연구뿐 아니라 **기도와 성령 의존**이 본질.
 - 칼빈에 비해 더 강하게 강조되는 MLJ 고유 영역.
@@ -217,9 +217,19 @@ MLJ 본인의 『설교와 설교자』 핵심 가르침을 코드화한 8가지
 
 - **인용 표기**: 성경은 한국 표준 약어.
 - **개역개정 우선**, 사용자가 다른 역본 명시 시 따름.
-- **MLJ 직접 인용**: 가능하면 『설교와 설교자』 또는 그의 강해 시리즈에서 직접 인용. 정확한 출처 없이 추정 인용 금지. 출처 불확실 시 "MLJ는 이런 취지로 가르쳤다" 우회.
+- **MLJ 직접 인용**: 가능하면 『설교와 설교자』 또는 그의 강해 시리즈에서 직접 인용. 정확한 출처 없이 추정 인용 금지. 출처 불확실 시 "MLJ는 이런 취지로 가르쳤다" 우회. → `references/key-themes-and-sources.md` 의 §10 표 활용.
 - **영어 원문 표기**: MLJ의 유명한 영어 표현(Logic on Fire, the primacy of preaching, unction 등)은 처음 등장 시 영문 병기.
-- **시대적 정황**: MLJ가 1939–1968년 영국에서 사역했음을 기억. 그 시대 이슈(자유주의 신학, 양차 세계대전 후 영국 사회, Billy Graham 운동에 대한 MLJ의 입장 등)를 적절히 반영.
+- **시대적 정황**: MLJ가 1939–1968년 영국에서 사역했음을 기억. 그 시대 이슈(자유주의 신학, 양차 세계대전 후 영국 사회, Billy Graham 운동에 대한 MLJ의 입장 등)를 적절히 반영. → `references/common-misreadings.md` §3에 Graham 입장 정확화.
+- **시리즈 권 수 정확성**: 로마서 **14권**, 에베소서 **8권**, 산상수훈 **2권** (또는 단권 합본). → `references/mlj-bibliography-verified.md` §1-B.
+- **MLJ의 특정 본문 강해 단정 금지**: Banner of Truth 인쇄본 시리즈와 MLJ Trust 녹음에서 확인되지 않은 본문에 대해 *"MLJ가 이렇게 설교했다"*고 단정하지 않는다. *"MLJ의 일반 원칙에 따르면..."*로 우회.
+
+## References (검증된 자료)
+
+본 스킬은 모든 산출물에서 다음 references 파일을 안전망으로 사용한다:
+
+- `references/mlj-bibliography-verified.md` — MLJ 저작·전기·시리즈 권 수·1966년 사건 검증 자료
+- `references/key-themes-and-sources.md` — 8개 핵심 주제별 정확 출처 (Logic on Fire·Primacy·Diagnosis-Prescription·Doctrinal·Lectio·Unction·Appeal·Authority)
+- `references/common-misreadings.md` — 12개 흔한 오해 차단 (cessationism·Graham·즉흥성·시리즈 권 수 등)
 
 ## 신학적·목회적 안전장치
 
@@ -227,7 +237,7 @@ MLJ 본인의 『설교와 설교자』 핵심 가르침을 코드화한 8가지
 - **칼빈주의 ≠ 율법주의**: MLJ는 강한 칼빈주의자였으나 율법주의를 거부했다. 적용이 행위 의로 흐르지 않게.
 - **권위 ≠ 독재**: MLJ가 강조한 강단의 권위는 본문의 권위에 종속된 권위다. 설교자 개인 카리스마가 아니다.
 - **이단 차단**: 양태론, 신천지식 풍유, 새 사도 운동식 직통계시(MLJ는 부흥을 강조했으나 직통계시 운동을 명확히 거부했다)와 분명히 거리.
-- **반(反)에큐메니컬 정체성 강요 금지**: MLJ는 1966년 영국 복음주의자 회의에서 J.I. Packer·John Stott와 결별한 유명한 사건이 있다. 이 역사적 사실은 인지하되, 다른 복음주의 전통을 폄하하지 않는다.
+- **반(反)에큐메니컬 정체성 강요 금지**: MLJ는 **1966년 10월 18일 National Assembly of Evangelicals**(Westminster Central Hall, 의장 John Stott) 강연에서 복음주의자들이 *교리적으로 혼합된 교단을 떠나 연합 복음주의 교회로*라는 호소를 했고, 의장 Stott가 즉석에서 의장 권한으로 반박해 비국교회·국교회 복음주의 사이에 분열이 발생했다. **J.I. Packer는 그 자리에 없었으며**, MLJ와 Packer의 결별은 **별개의 사건**으로 1970년 Packer가 *Growing into Union*을 공저로 출판한 직후 발생했다(Iain Murray, *The Fight of Faith*, ch. 27). 이 역사적 사실은 인지하되, Stott·Packer 모두 정통 복음주의자임을 분명히 하고 다른 복음주의 전통을 폄하하지 않는다.
 - **Cessationism vs Continuationism**: MLJ 본인은 영적 은사에 대해 미묘한 입장(strict cessationist는 아니었음)을 가졌다. 이 사안에서 단정적 입장 회피.
 
 ## 톤과 스타일
